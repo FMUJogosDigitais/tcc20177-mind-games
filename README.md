@@ -17,5 +17,6 @@ Inserir imagens do jogo.
 # Informações de como compilar o jogo:
 
 Unreal Engine (4.9.2)
+PC (Windows)
 
 **OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..**
