@@ -1,13 +1,14 @@
-# Nome do projeto
+# BLACK MANTIS
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+O jogo consiste na ideia de que Sam (protagonista), após uma grande tragédia na sua vida, é levado para um mundo no qual nunca viu antes, para isso precisa enfrentar enigmas com a ajuda de uma criança misteriosa e assim concluir seu único propósito que é retornar ao mundo real.
 
 # Nome compledo dos integrantes do projeto:
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+* Alberto Ramos
+* Aurélio Vieira
+* Helio Junior
+* Jaqueline Lima
+* Roberto Gonssales
 
 # Imagens do jogo:
 
@@ -15,6 +16,6 @@ Inserir imagens do jogo.
 
 # Informações de como compilar o jogo:
 
-Descriver aqui quais são as ferramentas necessárias para alterar e compilar o jogo a partir do código fonte.
+Unreal Engine (4.9.2)
 
 **OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..**
